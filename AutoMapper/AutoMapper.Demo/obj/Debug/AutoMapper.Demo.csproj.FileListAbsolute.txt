@@ -1,1 +1,9 @@
 E:\GitHub\MyProject\AutoMapper\AutoMapper\AutoMapper.Demo\bin\Debug\AutoMapper.Demo.exe.config
+E:\GitHub\MyProject\AutoMapper\AutoMapper\AutoMapper.Demo\bin\Debug\AutoMapper.Net4.dll
+E:\GitHub\MyProject\AutoMapper\AutoMapper\AutoMapper.Demo\bin\Debug\AutoMapper.Demo.exe
+E:\GitHub\MyProject\AutoMapper\AutoMapper\AutoMapper.Demo\bin\Debug\AutoMapper.Demo.pdb
+E:\GitHub\MyProject\AutoMapper\AutoMapper\AutoMapper.Demo\bin\Debug\AutoMapper.dll
+E:\GitHub\MyProject\AutoMapper\AutoMapper\AutoMapper.Demo\bin\Debug\AutoMapper.xml
+E:\GitHub\MyProject\AutoMapper\AutoMapper\AutoMapper.Demo\obj\Debug\AutoMapper.Demo.csprojResolveAssemblyReference.cache
+E:\GitHub\MyProject\AutoMapper\AutoMapper\AutoMapper.Demo\obj\Debug\AutoMapper.Demo.exe
+E:\GitHub\MyProject\AutoMapper\AutoMapper\AutoMapper.Demo\obj\Debug\AutoMapper.Demo.pdb
